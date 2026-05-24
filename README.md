@@ -28,7 +28,6 @@ Wireshark + Splunk Monitoring
 - Kali Linux
 - Ubuntu Server
 - Wireshark
-- Splunk Enterprise
 - Hydra
 - OpenSSH
 
