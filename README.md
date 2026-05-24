@@ -20,7 +20,7 @@ Kali Linux (Attacker)
         ↓
 Ubuntu Server (Victim)
         ↓
-Wireshark + Splunk Monitoring
+Wireshark 
 
 ---
 
