@@ -1,0 +1,21 @@
+# Ubuntu Commands
+
+ip a
+
+sudo systemctl start ssh
+
+sudo systemctl enable ssh
+
+sudo systemctl status ssh
+
+sudo cat /var/log/auth.log | grep "Failed password"
+
+# Kali Commands
+
+ssh victim@192.168.x.x
+
+hydra -l victim -p /usr/share/wordlists/--------- ssh://192.168.x.x
+
+# Wireshark Filter
+
+tcp.port == 22
