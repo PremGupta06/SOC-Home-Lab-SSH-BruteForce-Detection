@@ -1,0 +1,24 @@
+SOC LAB FINDINGS
+
+1. SSH remote login was successfully established between Kali Linux and Ubuntu Server.
+
+2. Hydra was used to simulate SSH brute-force attack activity.
+
+3. Wireshark successfully captured SSH traffic on TCP port 22.
+
+4. Ubuntu authentication logs recorded login attempts and failed password activity.
+
+5. Network packet analysis confirmed attacker-victim communication.
+
+6. The project demonstrated a basic SOC investigation workflow involving:
+   - Attack simulation
+   - Traffic capture
+   - Log analysis
+   - Evidence collection
+
+7. Skills gained:
+   - Linux administration
+   - SSH analysis
+   - Wireshark packet inspection
+   - Brute-force attack detection
+   - SOC investigation basics
